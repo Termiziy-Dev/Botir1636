@@ -1,0 +1,66 @@
+[33mcommit d779d5eaa933b10409391577d7801cee869614b5[m[33m ([m[1;36mHEAD -> [m[1;32mheader[m[33m)[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Sat Jun 17 14:27:50 2023 +0500
+
+    i added hello
+
+[33mcommit a2428beea736bd342cb6971cd1575c186c6b101c[m
+Merge: 16af90e 52cd7b9
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Sat Jun 17 14:27:03 2023 +0500
+
+    Merge branch 'navbar' into header
+
+[33mcommit 16af90e31ffe36be2b93a724e399f5ab67a332b2[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Sat Jun 17 14:22:21 2023 +0500
+
+    i added header
+
+[33mcommit 52cd7b9ed54bc102fff3c47f436e3b3d91606889[m[33m ([m[1;32mnavbar[m[33m)[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Sat Jun 17 14:01:48 2023 +0500
+
+    'i adden lorem'
+
+[33mcommit 3eb95a29a019576b58fe2ba27c937074e0ea18e6[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Sat Jun 17 13:58:39 2023 +0500
+
+    kechagi
+
+[33mcommit b1b291c290c76f15ba0988a38b7768c905a2f0c3[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Sat Jun 17 13:53:24 2023 +0500
+
+    i added footer
+
+[33mcommit ce1cb0e2284f6da4290911eb8f0e72cf4665ebeb[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Sat Jun 17 11:55:20 2023 +0500
+
+    i added card index.html
+
+[33mcommit 52d3f909c1deb58f95091d160cae9886b1e9f142[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Fri Jun 16 18:02:18 2023 +0500
+
+    i added card-body index.html
+
+[33mcommit e2f8671c805bb06f267505d9382e3eb5892b86f0[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Fri Jun 16 17:57:06 2023 +0500
+
+    i added card
+
+[33mcommit 7873ba514295923a1ab2b6a5a1647d9ec8f7bafd[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Fri Jun 16 17:44:42 2023 +0500
+
+    added 2 file
+
+[33mcommit babbc73e0a96c64ce96e98acba78a5a8d76f5447[m
+Author: Botir <botirqulturayev01@gmail.com>
+Date:   Thu Jun 15 21:40:47 2023 +0500
+
+    added 2 file+
